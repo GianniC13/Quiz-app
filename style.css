@@ -39,3 +39,15 @@ li {
 #result-container {
     margin: 1rem 0 1rem 0;
 }
+
+button {
+    padding: 10px 7px;
+    border-radius: 5px;
+    border: none;
+    background-color: rgb(72, 72, 236);
+    color: white;
+}
+
+.info {
+    background-color: rgb(198, 144, 44);
+}
