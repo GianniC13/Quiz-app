@@ -14,5 +14,24 @@ body {
 .quiz-container {
     box-shadow: 0 0 7px 0 rgba(0, 0, 0, 0.4);
     width: 80%;
+    border-radius: 7px;
+    padding: 1rem;
+}
 
+h1 {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+h2 {
+    margin-bottom: 1rem;
+}
+
+ul {
+    padding-left: 3rem;
+    padding-bottom: 1rem;
+}
+
+#result-container {
+    margin: 1rem 0 1rem 0;
 }
