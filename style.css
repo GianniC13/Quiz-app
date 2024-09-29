@@ -1,1 +1,18 @@
-/* Codul tau CSS aici */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.quiz-container {
+    box-shadow: 0 0 7px 0 rgba(0, 0, 0, 0.4);
+    width: 80%;
+
+}
