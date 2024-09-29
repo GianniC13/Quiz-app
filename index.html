@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Quiz</title>
+</head>
+<body>
+    <div class="quiz-container">
+        <h1>Quiz despre HTML și CSS</h1>
+        <div id="question-container">
+            <h2>Ce face atributul HTML 'href' intr-un link?</h2>
+            <ul>
+                <li>
+                    <input type="radio" name="answer" value="0" id="answer${index}" checked>
+                    <label for="answer${index}">A. Specifică adresa URL către care linkul duce</label>
+                </li>
+                <li>
+                    <input type="radio" name="answer" value="1" id="answer${index}">
+                    <label for="answer${index}">B. Stabilește un aspect vizual diferit pentru link</label>
+                </li>
+                <li>
+                    <input type="radio" name="answer" value="2" id="answer${index}">
+                    <label for="answer${index}">C. Dezactivează linkul</label>
+                </li>
+            </ul>
+        </div>
+        
+        <button id="submit-btn">Verifica Raspunsul</button>
+        <button id="new-question-btn" class="info">Alta intrebare!</button>
+        <div id="result-container">
+            <p class='right'>Răspuns corect!</p>
+        </div>
+        <div id="explanation-container" class="explanation">
+            Atributul 'href' într-un link HTML specifică adresa URL către care utilizatorul 
+            este direcționat când face clic pe link.
+        </div>
+    </div>
+    <!-- Dupa ce ai terminat de stilizat aplicatia de-comenteaza linia de mai jos -->
+    <!-- <script src="quiz.js"></script> -->
+</body>
+</html>

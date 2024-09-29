@@ -1,0 +1,544 @@
+{
+    "intrebari":[
+       {
+          "text":"Ce face atributul HTML 'alt' într-o imagine?",
+          "raspunsuri":[
+             {
+                "text":"A. Specifică un text alternativ pentru imagine",
+                "corect":true,
+                "explicatie":"Atributul 'alt' oferă un text alternativ care este afișat atunci când imaginea nu poate fi încărcată sau pentru utilizatorii cu dispozitive de asistență."
+             },
+             {
+                "text":"B. Stabilește un stil alternativ pentru imagine",
+                "corect":false
+             },
+             {
+                "text":"C. Activează animații pentru imagine",
+                "corect":false
+             }
+          ]
+       },
+       {
+          "text":"Cum se adaugă o margine externă în CSS?",
+          "raspunsuri":[
+             {
+                "text":"A. margin: 10px;",
+                "corect":true,
+                "explicatie":"Proprietatea 'margin' în CSS adaugă o margine externă în jurul unui element."
+             },
+             {
+                "text":"B. padding: 10px;",
+                "corect":false
+             },
+             {
+                "text":"C. border: 10px solid black;",
+                "corect":false
+             }
+          ]
+       },
+       {
+          "text":"Care este scopul selectorului de clasă în CSS?",
+          "raspunsuri":[
+             {
+                "text":"A. Selectează elementele care au o clasă specifică",
+                "corect":true,
+                "explicatie":"Selectorul de clasă în CSS ('.nume-clasa') este utilizat pentru a selecta toate elementele care au acea clasă."
+             },
+             {
+                "text":"B. Selectează elementul cu un anumit ID",
+                "corect":false
+             },
+             {
+                "text":"C. Selectează toate elementele din document",
+                "corect":false
+             }
+          ]
+       },
+       {
+          "text":"Ce face proprietatea CSS 'display: none;'?",
+          "raspunsuri":[
+             {
+                "text":"A. Face elementul invizibil",
+                "corect":true,
+                "explicatie":"Proprietatea 'display: none;' în CSS face elementul să fie invizibil pe pagină."
+             },
+             {
+                "text":"B. Schimbă fontul textului",
+                "corect":false
+             },
+             {
+                "text":"C. Creează o umbrire la marginea elementului",
+                "corect":false
+             }
+          ]
+       },
+       {
+          "text":"Cum se adaugă o culoare de fundal în CSS?",
+          "raspunsuri":[
+             {
+                "text":"A. background-color: red;",
+                "corect":true,
+                "explicatie":"Proprietatea 'background-color' stabilește culoarea de fundal a unui element în CSS."
+             },
+             {
+                "text":"B. color: #00ff00;",
+                "corect":false
+             },
+             {
+                "text":"C. border: 1px solid blue;",
+                "corect":false
+             }
+          ]
+       },
+       {
+          "text":"Ce face atributul HTML 'href' într-un link?",
+          "raspunsuri":[
+             {
+                "text":"A. Specifică adresa URL către care linkul duce",
+                "corect":true,
+                "explicatie":"Atributul 'href' într-un link HTML specifică adresa URL către care utilizatorul este direcționat când face clic pe link."
+             },
+             {
+                "text":"B. Stabilește un aspect vizual diferit pentru link",
+                "corect":false
+             },
+             {
+                "text":"C. Dezactivează linkul",
+                "corect":false
+             }
+          ]
+       },
+       {
+          "text":"Ce face pseudoclasele CSS ':hover'?",
+          "raspunsuri":[
+             {
+                "text":"A. Selectează elementul atunci când este hover (deasupra lui)",
+                "corect":true,
+                "explicatie":"Pseudoclasa ':hover' este folosită pentru a selecta un element atunci când cursorul este plasat deasupra acestuia."
+             },
+             {
+                "text":"B. Selectează elementul atunci când este activat",
+                "corect":false
+             },
+             {
+                "text":"C. Selectează elementul atunci când este vizitat",
+                "corect":false
+             }
+          ]
+       },
+       {
+          "text":"Cum se adaugă o imagine într-o pagină HTML?",
+          "raspunsuri":[
+             {
+                "text":"A. &lt;img src='image.jpg' alt='My Image'&gt;",
+                "corect":true,
+                "explicatie":"Elementul &lt;img&gt; în HTML este folosit pentru a adăuga o imagine pe pagină, iar atributul 'src' specifică calea către imagine."
+             },
+             {
+                "text":"B. &lt;image src='image.jpg' alt='My Image'&gt;",
+                "corect":false
+             },
+             {
+                "text":"C. &lt;picture&gt;My Image&lt;/picture&gt;",
+                "corect":false
+             }
+          ]
+       },
+       {
+          "text":"Cum se specifică fontul italic în CSS?",
+          "raspunsuri":[
+             {
+                "text":"A. font-style: italic;",
+                "corect":true,
+                "explicatie":"Proprietatea 'font-style: italic;' în CSS este folosită pentru a specifica că textul trebuie să fie în stil italic."
+             },
+             {
+                "text":"B. font-weight: italic;",
+                "corect":false
+             },
+             {
+                "text":"C. italic: true;",
+                "corect":false
+             }
+          ]
+       },
+       {
+          "text":"Ce face atributul HTML 'required' într-un input?",
+          "raspunsuri":[
+             {
+                "text":"A. Face câmpul de input obligatoriu",
+                "corect":true,
+                "explicatie":"Atributul 'required' într-un element de input HTML face ca acel câmp să fie obligatoriu pentru completare."
+             },
+             {
+                "text":"B. Face câmpul de input opțional",
+                "corect":false
+             },
+             {
+                "text":"C. Ascunde câmpul de input",
+                "corect":false
+             }
+          ]
+       },
+       {
+          "text":"Care este rolul selectorului CSS 'nth-child(2)'?",
+          "raspunsuri":[
+             {
+                "text":"A. Selectează al doilea copil al elementului părinte",
+                "corect":true,
+                "explicatie":"Selectorul 'nth-child(2)' selectează al doilea copil al elementului părinte."
+             },
+             {
+                "text":"B. Selectează primul copil al elementului părinte",
+                "corect":false
+             },
+             {
+                "text":"C. Selectează toți copiii elementului părinte",
+                "corect":false
+             }
+          ]
+       },
+       {
+          "text":"Ce face proprietatea CSS 'box-shadow'?",
+          "raspunsuri":[
+             {
+                "text":"A. Adaugă o umbră la element",
+                "corect":true,
+                "explicatie":"Proprietatea 'box-shadow' în CSS este folosită pentru a adăuga o umbră la un element."
+             },
+             {
+                "text":"B. Schimbă culoarea fundalului elementului",
+                "corect":false
+             },
+             {
+                "text":"C. Modifică dimensiunea fontului elementului",
+                "corect":false
+             }
+          ]
+       },
+       {
+          "text":"Cum se comentează în HTML?",
+          "raspunsuri":[
+             {
+                "text":"A. &lt;!-- Acesta este un comentariu --&gt;",
+                "corect":true,
+                "explicatie":"În HTML, comentariile sunt adăugate cu &lt;!-- acesta este un comentariu --&gt;."
+             },
+             {
+                "text":"B. // Acesta este un comentariu",
+                "corect":false
+             },
+             {
+                "text":"C. # Acesta este un comentariu",
+                "corect":false
+             }
+          ]
+       },
+       {
+          "text":"Ce face proprietatea CSS 'text-align: center'?",
+          "raspunsuri":[
+             {
+                "text":"A. Centrează textul în interiorul unui element",
+                "corect":true,
+                "explicatie":"Proprietatea 'text-align: center;' în CSS centrează textul în interiorul unui element."
+             },
+             {
+                "text":"B. Schimbă culoarea textului",
+                "corect":false
+             },
+             {
+                "text":"C. Adaugă spațiu în jurul textului",
+                "corect":false
+             }
+          ]
+       },
+       {
+          "text":"Care este scopul atributului HTML 'target='_blank''?",
+          "raspunsuri":[
+             {
+                "text":"A. Deschide linkul într-o fereastră nouă",
+                "corect":true,
+                "explicatie":"Atributul 'target='_blank'' în HTML deschide linkul într-o fereastră sau tab nou."
+             },
+             {
+                "text":"B. Deschide linkul în aceeași fereastră",
+                "corect":false
+             },
+             {
+                "text":"C. Deschide linkul într-un iframe",
+                "corect":false
+             }
+          ]
+       },
+       {
+          "text":"Cum se adaugă un spațiu între elemente în CSS?",
+          "raspunsuri":[
+             {
+                "text":"A. margin: 10px;",
+                "corect":true,
+                "explicatie":"Proprietatea 'margin' în CSS adaugă spațiu în jurul elementului."
+             },
+             {
+                "text":"B. padding: 10px;",
+                "corect":false
+             },
+             {
+                "text":"C. border: 10px solid black;",
+                "corect":false
+             }
+          ]
+       },
+       {
+          "text":"Ce face pseudoelementul CSS '::before'?",
+          "raspunsuri":[
+             {
+                "text":"A. Adaugă conținut înaintea conținutului elementului selectat",
+                "corect":true,
+                "explicatie":"Pseudoelementul '::before' este folosit pentru a adăuga conținut înaintea conținutului elementului selectat."
+             },
+             {
+                "text":"B. Selectează primul element dintr-un container",
+                "corect":false
+             },
+             {
+                "text":"C. Selectează elementul înaintea altui element",
+                "corect":false
+             }
+          ]
+       },
+       {
+          "text":"Cum se specifică fontul sans-serif în CSS?",
+          "raspunsuri":[
+             {
+                "text":"A. font-family: 'Arial', sans-serif;",
+                "corect":true,
+                "explicatie":"Specificarea 'sans-serif' în font-family asigură utilizarea unui font fără linii adiționale (serife)."
+             },
+             {
+                "text":"B. font-style: sans-serif;",
+                "corect":false
+             },
+             {
+                "text":"C. font-weight: sans-serif;",
+                "corect":false
+             }
+          ]
+       },
+       {
+          "text":"Ce face CSS 'flexbox'?",
+          "raspunsuri":[
+             {
+                "text":"A. Model de layout pentru aranjarea elementelor într-un container",
+                "corect":true,
+                "explicatie":"Flexbox este un model de layout în CSS care permite aranjarea flexibilă a elementelor într-un container."
+             },
+             {
+                "text":"B. Stabilește ordinea de afișare a elementelor în axa Z",
+                "corect":false
+             },
+             {
+                "text":"C. Adaugă o umbră la element",
+                "corect":false
+             }
+          ]
+       },
+       {
+          "text":"Cum se specifică o listă orizontală în CSS?",
+          "raspunsuri":[
+             {
+                "text":"A. display: flex;",
+                "corect":true,
+                "explicatie":"Proprietatea 'display: flex;' în CSS este utilizată pentru a crea o listă orizontală."
+             },
+             {
+                "text":"B. list-style: horizontal;",
+                "corect":false
+             },
+             {
+                "text":"C. layout: horizontal;",
+                "corect":false
+             }
+          ]
+       },
+       {
+          "text":"Ce face selectorul CSS 'h1 a'?",
+          "raspunsuri":[
+             {
+                "text":"A. Selectează toate elementele 'a' care sunt descendente ale unui element 'h1'",
+                "corect":true,
+                "explicatie":"Selectorul 'h1 a' în CSS selectează toate elementele 'a' care sunt descendente ale unui element 'h1'."
+             },
+             {
+                "text":"B. Selectează primul element 'a' dintr-un document",
+                "corect":false
+             },
+             {
+                "text":"C. Selectează toate elementele 'h1' care conțin un element 'a'",
+                "corect":false
+             }
+          ]
+       },
+       {
+          "text":"Cum se adaugă o linie orizontală în HTML?",
+          "raspunsuri":[
+             {
+                "text":"A. &lt;hr&gt;",
+                "corect":true,
+                "explicatie":"Elementul &lt;hr&gt; în HTML adaugă o linie orizontală pentru a separa conținutul."
+             },
+             {
+                "text":"B. &lt;line&gt;",
+                "corect":false
+             },
+             {
+                "text":"C. &lt;line-horizontal&gt;",
+                "corect":false
+             }
+          ]
+       },
+       {
+          "text":"Care este rolul atributului HTML 'colspan' într-un tabel?",
+          "raspunsuri":[
+             {
+                "text":"A. Specifică numărul de coloane pe care o celulă le ocupă",
+                "corect":true,
+                "explicatie":"Atributul 'colspan' într-un tabel HTML specifică numărul de coloane pe care o celulă le ocupă."
+             },
+             {
+                "text":"B. Specifică numărul de rânduri pe care o celulă le ocupă",
+                "corect":false
+             },
+             {
+                "text":"C. Adaugă o coloană în tabel",
+                "corect":false
+             }
+          ]
+       },
+       {
+          "text":"Ce face proprietatea CSS 'border-radius'?",
+          "raspunsuri":[
+             {
+                "text":"A. Adaugă colțuri rotunjite la un element",
+                "corect":true,
+                "explicatie":"Proprietatea 'border-radius' în CSS adaugă colțuri rotunjite la un element."
+             },
+             {
+                "text":"B. Stabilește grosimea bordurii unui element",
+                "corect":false
+             },
+             {
+                "text":"C. Schimbă culoarea fundalului elementului",
+                "corect":false
+             }
+          ]
+       },
+       {
+          "text":"Cum se specifică fontul serif în CSS?",
+          "raspunsuri":[
+             {
+                "text":"A. font-family: 'Times New Roman', serif;",
+                "corect":true,
+                "explicatie":"Specificarea 'serif' în font-family asigură utilizarea unui font cu linii adiționale (serife), cum ar fi Times New Roman."
+             },
+             {
+                "text":"B. font-style: serif;",
+                "corect":false
+             },
+             {
+                "text":"C. font-weight: serif;",
+                "corect":false
+             }
+          ]
+       },
+       {
+          "text":"Ce face proprietatea CSS 'text-decoration: underline'?",
+          "raspunsuri":[
+             {
+                "text":"A. Subliniază textul",
+                "corect":true,
+                "explicatie":"Proprietatea 'text-decoration: underline;' în CSS subliniază textul."
+             },
+             {
+                "text":"B. Îngroașă textul",
+                "corect":false
+             },
+             {
+                "text":"C. Înclină textul",
+                "corect":false
+             }
+          ]
+       },
+       {
+          "text":"Cum se creează un comentariu în CSS?",
+          "raspunsuri":[
+             {
+                "text":"A. /* Acesta este un comentariu */",
+                "corect":true,
+                "explicatie":"În CSS, comentariile sunt adăugate cu /* acesta este un comentariu */."
+             },
+             {
+                "text":"B. // Acesta este un comentariu",
+                "corect":false
+             },
+             {
+                "text":"C. # Acesta este un comentariu",
+                "corect":false
+             }
+          ]
+       },
+       {
+          "text":"Ce face atributul HTML 'disabled' într-un element de input?",
+          "raspunsuri":[
+             {
+                "text":"A. Dezactivează elementul de input",
+                "corect":true,
+                "explicatie":"Atributul 'disabled' într-un element de input HTML dezactivează acel element."
+             },
+             {
+                "text":"B. Activează elementul de input",
+                "corect":false
+             },
+             {
+                "text":"C. Stabilește un aspect vizual diferit pentru element",
+                "corect":false
+             }
+          ]
+       },
+       {
+          "text":"Cum se specifică o culoare în CSS?",
+          "raspunsuri":[
+             {
+                "text":"A. color: #ff0000;",
+                "corect":true,
+                "explicatie":"Proprietatea 'color' în CSS specifică culoarea textului, iar #ff0000 reprezintă culoarea roșie."
+             },
+             {
+                "text":"B. background-color: blue;",
+                "corect":false
+             },
+             {
+                "text":"C. border-color: green;",
+                "corect":false
+             }
+          ]
+       },
+       {
+          "text":"Ce face selectorul CSS 'ul &gt; li'?",
+          "raspunsuri":[
+             {
+                "text":"A. Selectează toate elementele 'li' care sunt descendente directe ale unui element 'ul'",
+                "corect":true,
+                "explicatie":"Selectorul 'ul &gt; li' în CSS selectează toate elementele 'li' care sunt descendente directe ale unui element 'ul'."
+             },
+             {
+                "text":"B. Selectează primul element 'li' dintr-un document",
+                "corect":false
+             },
+             {
+                "text":"C. Selectează toate elementele 'ul' și 'li'",
+                "corect":false
+             }
+          ]
+       }
+    ]
+ }
