@@ -32,6 +32,10 @@ ul {
     padding-bottom: 1rem;
 }
 
+li {
+    list-style-type: none;
+}
+
 #result-container {
     margin: 1rem 0 1rem 0;
 }
